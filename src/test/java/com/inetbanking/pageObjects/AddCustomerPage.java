@@ -69,6 +69,8 @@ public class AddCustomerPage {
 	@CacheLookup
 	WebElement btnSubmit;
 	
+	@FindBy(xpath="//*[@id=\"customer\"]/tbody/tr[4]/td[2]")
+	WebElement txtCustid;
 	
 	public void clickAddNewCustomer()
 	{
@@ -133,4 +135,8 @@ public void clickSubmit()
 	btnSubmit.click();
 }
 
+public int getCustomerId()
+{
+	return Integer.parseInt(txtCustid.getText());
+}
 }

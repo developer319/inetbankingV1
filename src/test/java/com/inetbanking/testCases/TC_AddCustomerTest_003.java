@@ -13,6 +13,7 @@ import junit.framework.Assert;
 
 public class TC_AddCustomerTest_003  extends BaseClass {
 
+	public static int custid;
 	@Test
 	public void addNewCustomer() throws InterruptedException, IOException
 	{
@@ -46,9 +47,11 @@ public class TC_AddCustomerTest_003  extends BaseClass {
 		logger.info("validation started.....");
 		///boolean res=driver.getPageSource().contains("Customer Registered Successfully!!!");
 		boolean res=driver.findElement(By.xpath("//*[@id=\"customer\"]/tbody/tr[1]/td/p")).getText().equals("Customer Registered Successfully!!!");
-		//driver.getPageSource().contains("Customer Registered Successfully!!!");
+		//driver.getPageSource().contains("Customer Registered Successfully!!!")
+		custid=addcust.getCustomerId();
 		if(res==true)
 		{
+			logger.info("Customer id :"+addcust.getCustomerId());
 			Assert.assertTrue(true);
 			logger.info("test case is passed");
 		}
