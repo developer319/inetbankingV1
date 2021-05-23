@@ -762,3 +762,43 @@ table{
 2021-05-16 21:32:29,062 - ebanking -INFO - password is entered
 2021-05-16 21:32:31,028 - ebanking -INFO - sign in successfull!!
 2021-05-16 21:32:39,398 - ebanking -INFO - Customer is Successfully deleted
+2021-05-23 12:05:23,373 - ebanking -INFO - username is entered
+2021-05-23 12:05:23,660 - ebanking -INFO - password is entered
+2021-05-23 12:05:26,060 - ebanking -INFO - sign in successfull!!
+2021-05-23 12:05:37,743 - ebanking -INFO - validation started.....
+2021-05-23 12:05:38,147 - ebanking -INFO - Customer id :22368
+2021-05-23 12:05:38,148 - ebanking -INFO - test case is passed
+2021-05-23 12:05:43,821 - ebanking -INFO - username is entered
+2021-05-23 12:05:44,034 - ebanking -INFO - password is entered
+2021-05-23 12:05:46,017 - ebanking -INFO - sign in successfull!!
+2021-05-23 12:05:54,464 - ebanking -INFO - Customer is Successfully deleted. Test Passed
+2021-05-23 12:09:59,208 - ebanking -INFO - username is entered
+2021-05-23 12:09:59,274 - ebanking -INFO - password is entered
+2021-05-23 12:10:01,466 - ebanking -INFO - sign in successfull!!
+2021-05-23 12:10:12,624 - ebanking -INFO - validation started.....
+2021-05-23 12:10:17,565 - ebanking -INFO - username is entered
+2021-05-23 12:10:17,756 - ebanking -INFO - password is entered
+2021-05-23 12:10:19,892 - ebanking -INFO - sign in successfull!!
+2021-05-23 12:10:28,070 - ebanking -INFO - Customer is Successfully deleted. Test Passed
+2021-05-23 13:06:12,662 - ebanking -INFO - username is entered
+2021-05-23 13:06:12,722 - ebanking -INFO - password is entered
+2021-05-23 13:06:14,681 - ebanking -INFO - sign in successfull!!
+2021-05-23 13:06:26,729 - ebanking -INFO - validation started.....
+2021-05-23 13:06:26,943 - ebanking -INFO - Customer id :78926
+2021-05-23 13:06:26,944 - ebanking -INFO - test case is passed
+2021-05-23 13:06:31,821 - ebanking -INFO - username is entered
+2021-05-23 13:06:31,887 - ebanking -INFO - password is entered
+2021-05-23 13:06:33,546 - ebanking -INFO - sign in successfull!!
+2021-05-23 13:10:16,877 - ebanking -INFO - username is entered
+2021-05-23 13:10:16,948 - ebanking -INFO - password is entered
+2021-05-23 13:10:18,258 - ebanking -INFO - sign in successfull!!
+2021-05-23 13:10:30,473 - ebanking -INFO - validation started.....
+2021-05-23 13:10:30,679 - ebanking -INFO - Customer id :5154
+2021-05-23 13:10:30,682 - ebanking -INFO - test case is passed
+2021-05-23 13:10:36,058 - ebanking -INFO - username is entered
+2021-05-23 13:10:36,112 - ebanking -INFO - password is entered
+2021-05-23 13:10:37,300 - ebanking -INFO - sign in successfull!!
+2021-05-23 13:10:43,460 - ebanking -INFO - Account id :92955
+2021-05-23 13:10:43,490 - ebanking -INFO - Account Balace is:1588.0
+2021-05-23 13:10:43,490 - ebanking -INFO - Account is successfully created!!!!
+2021-05-23 13:10:43,490 - ebanking -INFO - test case is passed
